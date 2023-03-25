@@ -1,2 +1,3 @@
 # StringCompareExample
-Comparing 2 strings using dynamic programming just for fun
+
+Comparing 2 strings using dynamic programming just for fun.
