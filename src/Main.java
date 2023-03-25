@@ -19,7 +19,6 @@ public class Main {
       String s2 = strings[random.nextInt(0, strings.length)];
       System.out.println("s1: " + s1 + ", s2: " + s2 + ", Compare: " + compare(s1, s2));
     }
-
   }
 
   /**
